@@ -1,0 +1,501 @@
+@media (max-width: 175px) {
+ .logo-nos-packs{
+    float: left; 
+ }
+}
+		@media screen and (max-width: 576px) and (min-width: 300px){
+			/*/     fin menu colussant     /*/
+.overlay a {
+	font-size: x-large;
+}
+.overlay .closebtn {
+	font-size: 40px; top: 15px; right: 35px;
+}
+.dd{
+	font-size: smaller !important ; font-style: italic; font-family: -webkit-pictograph;
+}
+.ee{
+	font-size: small; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; color: black;
+}
+.vide-nav{
+	height: 2%;
+}
+.fleche-fleche {
+	font-size: x-large !important;
+}
+.footer {
+	margin-left: 0% !important; 
+}
+
+/*/     fin menu colussant     /*/
+
+			.container-home .footer-adresse-text{
+				margin-left: 5% !important;
+			}
+			
+			.adresse-rue {
+				margin-left: 10%; font-size: x-small !important; font-family: Aharoni;
+			}
+			.container-home .logo-nos-clients .textup-client{
+				font-size: 260% !important ;
+			}
+			.ligne-1-btn-menu .fas {
+				margin: 5%; font-size: x-large;
+			}
+			.logo-image-nav {
+				width: 15%; cursor: pointer;
+			}
+			.reseaux-sociaux{
+				width: unset!important;
+			}
+			.reseaux .fab{
+				cursor: pointer; 
+			}
+			.reseaux{    
+				padding-left: 6%!important; padding-right: 6%!important; font-size: medium!important;   
+			}
+			.aaaa{
+			background-color: white!important; 
+			}
+			.container-home .ligne-1-logo .image-logo1 {
+				width:20%; 
+			}
+			
+			.img .image-logo1.img-responsive {
+				width:20%; 
+			}
+			.container-home .ligne-8-adeo .ligne-image-adeo{
+				width:85%;
+			}
+			.container-home .ADEO-Group-text{
+				font-family: Garamond;font-size: 60%;float: right;text-align: right;font-weight: bold; margin-right: 15%;
+			}
+			.container-home .Stratégie-communication-text{
+				font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, empattement;font-size: 70%;text-align: right;
+				float: right; margin-right: 15%; font-style: italic;
+			}
+			.container-home .ligne-8-adeo .paragraphe-adeo {
+				margin-left: 5%;
+			}
+			
+			.container-home .vide-11 {
+				display: none;
+			}
+			.container-home .ligne-10-nos-clients .logo-nos-clients .textdown-client {
+				font-size: 210%;
+			}
+			.container-home .ligne-10-nos-clients .logo-nos-clients .textborder-client {
+				width: 300px;
+			}
+			.container-home .footer-adresse-0 {
+				margin-left: 5% !important ;
+			}
+			.logo-notre-equipe .textborder{
+				width: 300px !important; height: 30px;opacity: .7; border-radius: 5px 0 6px 0 / 40px 0;background-clip: 
+				padding-box;background-color: rgba(255,204,0,.7);margin-left: 10px !important; margin-top: -33px;
+			}
+			.logo-notre-equipe .textup{
+				font-family: Aharoni;  font-size: 250%; margin-left: 25px !important; 
+			}
+			.fas {
+				cursor: pointer;
+			}
+		}
+
+/* -- accueil2 --*/
+.a.nounderline:link { 
+	text-decoration:none; 
+}
+.navbar.navbar-dark.bg-dark{
+	background-color:white !important;
+}
+.navbar > .mx-auto > .img{
+	 width: 35%; height: auto; display: block; align-content: center; 
+}
+.collapse .bg-dark{
+	background-color: white !important;
+}
+.collapse .show{
+	padding: 0%;
+}
+.collapse .text-black{
+	font-family: Aharoni; font-weight: boldest; margin-left: 20%;
+}
+.collapse .vide-1-accueil2{
+	width: 60px; height: 40px;
+}
+.collapse .adresse-1{
+	font-family: Aharoni; margin-left: 20%; font-size: 90%;
+}
+.collapse .numero{
+	font-family: Aharoni; margin-left: 20%; font-size:110%;
+}
+.collapse .vide-2-accueil2{
+	width: 60px; height: 30px;
+}
+
+.collapse .fas .fa-long-arrow-alt-right{
+	margin-top: 20px; font-size:250% ; color: inherit;
+}
+
+.container-home .footer.hh{
+    margin-left: 5% !important ;
+}
+
+/*/*    /
+/* portfolio  */
+
+.logo-prot-folio1 > .textup{
+	font-family: Aharoni;  font-size: 300%; margin-left: 36px;
+}
+.logo-prot-folio1 > .textborder{
+	width: 217px; height: 40px;opacity: .7;border-radius: 5px 0 6px 0 / 40px 0;background-clip: 
+              padding-box;background-color: rgba(0,204,153,.7);margin-top: -33px;
+}
+.logo-prot-folio1 > .textdown{
+	margin-top: -30px ; margin-left: 36px;
+              font-family:  Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, empattement;  font-size: 300%;
+}
+.photos .img-fluid{
+	height: auto; display: block; align-content: center;  margin-top: 10% ;
+}
+
+/* Equipe*/
+.vide-1{
+		margin-top: 5%;
+}
+.container .ligne{
+	padding-left: 5%; padding-right: 5%;
+}
+.container .membre {
+	margin-top: 5%;
+}
+.container .linge-equipe{
+	margin-top: 10%;
+}
+.container .scotche1{
+	width: 221px;height: 30px;opacity: .7; border-radius: 5px 0 6px 0 / 30px 0; 
+                background-clip: padding-box; background-color: rgba(255,204,0,.7);
+}
+.container > .scotche2 > .img-fluid{
+	height: auto; display: block;
+}
+.logo-notre-equipe .textup{
+	font-family: Aharoni;  font-size: 250%; margin-left: 36px; 
+}
+.logo-notre-equipe .textborder{
+	width: 345px; height: 30px;opacity: .7; border-radius: 5px 0 6px 0 / 40px 0;background-clip: 
+	padding-box;background-color: rgba(255,204,0,.7);margin-top: -33px;
+}
+.logo-notre-equipe .textdown{
+	margin-top: -30px ; margin-left: 36px; font-size: 250%;
+	font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, empattement; 
+}
+.container .job-text{
+	font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, empattement; color: #000; font-size: 22px; font-style: italic;
+}
+.container .nom-text{
+	color: #000; font-size: 22px; font-weight: bold; font-family: Brandon Grotesque; 
+}
+.container .Prenez{
+	font-family: Brandon Grotesque; font-size: 14px; color: #fefefe;
+}
+
+.container .btn {
+	background-color: #ffcb00 !important;  border-color: #ffcb00 !important;
+}
+
+/* Home page */
+.container-home > .ligne-0{
+	margin-top: 5%;margin-left: 5%;
+}
+.container-home > .ligne-0 > .fas {
+	font-size: 2rem;
+}
+.container-home > .ligne-0 > .fab {
+	font-size: 2rem;
+}
+.container-home .ligne-1-vide{
+	height: 4rem;
+}
+.container-home .ligne-1-logo{
+	margin-top: 10%;
+}
+.container-home > .ligne-1-logo > .img {
+	width:30%; 
+ }
+ .container-home .ligne-2-texte .pour {
+ 	color: black; font-family:Calibri Light; font-size: xx-large;
+ }
+.container-home .ligne-3-savoir-faire {
+	margin-left: 5%;
+}
+.container-home .textup-savoir{
+	margin-top: -32px;margin-left: 36px;font-family: Aharoni;font-size: 300%;
+}
+.container-home .textborder-savoir{
+		width: 217px;height: 30px; opacity: .7; background-clip: padding-box;margin-left: 20px;
+	      border-radius: 5px 0 6px 0 / 40px 0;background-color: rgba(0,204,153,.7); margin-top: -34px;
+}
+.container-home .textdown-savoir{
+	margin-top: -32px; margin-left: 36px; font-size: 300%;
+	font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, empattement;
+}
+.container-home .design-block-1{
+	border-right-color: black; border-right-style: solid;
+}
+.container-home .design-block-2{
+	 border-bottom-color: black; 
+}
+.container-home .design-block-2-title{
+	font-family: Aharoni; font-size: x-large;
+}
+.container-home .design-block-2-sous-title{
+	font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, empattement; font-size:x-large;
+}
+.container-home .hr {
+	 border-style: solid; border-width: 3px 0 0 0;border-color: black; height: 30px;border: 1;text-align: center;
+}
+.container-home .li-li-1{
+	padding-left: 15%;font-size: 1rem
+}
+.container-home .ligne-5-Decouvrez-nos-packs{
+	margin-right: 5%;margin-top: 5%;margin-bottom: 5%; 
+}
+.container-home .Decouvrez-nos-packs-btn{
+	background-color: #00cb99 !important; border-color: #00cb99 !important; float: right;
+}
+.container-home .Decouvrez-nos-text {
+	 font-family: Aharoni; font-size: 22px; color: white;
+}
+.container-home .packs-texts{
+color: white;font-size: 25px; font-style: italic;
+font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, empattement;
+}
+
+
+
+.container-home .ligne-6-DERNIER-projet{
+	margin-top: 10%;padding-top: 0%;
+}
+.container-home .textup-DERNIER-projet{
+	margin-top: -32px;margin-left: 36px;font-family: Aharoni; font-size: 300%;
+}
+.container-home .textborder-DERNIER-projet{
+	width: 217px;height: 30px;opacity: .7;border-radius: 5px 0 6px 0 / 40px 0;background-clip: padding-box;
+	background-color: rgba(0,204,153,.7);margin-top: -34px;margin-left: 20px;
+}
+.container-home .textdown-DERNIER-projet{
+	margin-top: -32px;margin-left: 36px;font-size: 300%;font-style: italic;
+    font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, empattement;
+}
+
+
+
+.container-home .jeu{
+	margin-left: 10%;
+}
+.container-home .jeu-text{
+	font-family: Segoe UI Black; font-size: 200%;font-weight:bold;
+}
+.container-home .collaborateurs-text {
+	font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, empattement;font-size: 200%; font-style: italic;
+}
+.container-home .ligne-8-adeo{
+	margin-top: 10vh;
+}
+.container-home .ligne-8-adeo .img{
+	 width:90%;
+}
+.container-home .ligne-8-adeo .legend{
+	  padding-right: 5%;
+}
+.container-home .ADEO-Group-text{
+	 font-family: Garamond;font-size: 60%;float: right;text-align: right;font-weight: bold;
+}
+.container-home .Stratégie-communication-text{
+	 font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, empattement;font-size: 70%;text-align: right;
+	 float: right;margin-top: 0%;font-style: italic;
+}
+.container-home .paragraphe-adeo{
+ 	 margin-left: 0%; margin-top: -3%;
+}
+.container-home .paragraphe-adeo-1{
+	 font-size: 100%;font-weight:bold;
+}
+.container-home .paragraphe-adeo-2{
+	 text-align: justify; text-justify: inter-word;
+}
+.container-home .ligne-9-boutton-Decouvrez-notre-portfolio{
+	 margin-right: 5%;margin-top: 5%;margin-bottom: 5%;justify-content: flex-end;
+}
+.container-home .boutton-Decouvrez-notre-portfolio {
+	 background-color: #00cb99 !important; border-color: #00cb99 !important;
+}
+.container-home .Decouvrez-notre-text-part-1{
+	font-family: Aharoni; font-size: 22px; color: white;
+}
+.container-home .Decouvrez-notre-text-part-2 {
+	 color: white;font-size: 25px; font-style: italic;
+	 font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, empattement;
+}
+.container-home .ligne-10-nos-clients{
+	 margin-top: 10%;padding-top: 0%;
+}
+.container-home .logo-nos-clients .textup-client{
+	 margin-top: -32px;margin-left: 36px;font-family: Aharoni;font-size: 300%;
+}
+.container-home .logo-nos-clients .textborder-client{
+ 	width: 375px;height: 30px;opacity: .7;border-radius: 5px 0 6px 0 / 40px 0;background-clip: padding-box;
+    background-color: rgba(158,113,255,.7); margin-top: -34px;margin-left: 20px;
+ }
+ .container-home .logo-nos-clients .textdown-client{
+	margin-top: -32px;margin-left: 36px;font-size: 300%;font-style: italic;
+    font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, empattement;
+ }
+.container-home .vide-11 {
+ 	height: 20vh; 
+ }
+ .container-home .ligne-14-reseaux{
+ 	margin-top: 10%;padding-top: 0%;
+ }
+.container-home .ligne-14-reseaux .textup-reseaux{
+ 	 margin-top: -32px;margin-left: 36px;font-family: Aharoni;font-size: 300%;
+ }
+.container-home .ligne-14-reseaux .textborder-reseaux{
+ 	width: 230px;height: 30px;opacity: .7;border-radius: 5px 0 6px 0 / 40px 0;background-clip: padding-box;
+	background-color: rgba(158,113,255,.7);margin-top: -34px;margin-left: 20px;
+ }
+.container-home .ligne-14-reseaux .textdown-reseaux{
+ 	margin-top: -32px;margin-left: 36px;font-size: 270%;font-style: italic;
+	font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, empattement;
+ }
+.container-home .footer .fleche-fas {
+	width: 0%; font-size: 45pt; color: inherit; 
+}
+.container-home .footer-alors-on-travaille-ensenble{
+	font-family: 'Times New Roman', Times, serif; font-style: italic; 
+}
+.container-home .footer-ecrivez-nous{
+	font-size: 2em; color: black; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; 	
+}
+.container-home .footer-adresse-text{
+	font-weight: bold; font-family: Aharoni;	 
+}
+.container-home .footer .fleche	.devant-fleche-text{
+	       margin-left: 35%; margin-top: -11%;
+}
+
+
+/*
+-------------home-page------------
+*/
+.fas {
+	cursor: pointer;
+}
+.reseaux .fab{
+	cursor: pointer; 
+}
+.reseaux{
+padding-left: 5%; padding-right: 5%;    font-size: medium ; cursor: pointer;
+}
+.reseaux-sociaux{
+width: inherit;    
+}
+.vide-nav{
+width: 60px; height: 60px;
+}
+.liste {
+font-family: Aharoni; font-weight: boldest;
+}
+.liste1{
+	font-family: Aharoni; font-weight: boldest; color: black;width: 200px !important; height: 30px;opacity: .7; 
+	border-radius: 5px 0 6px 0 / 40px 0;background-clip: 
+    padding-box;background-color: rgba(255,204,0,.7);margin-left: 60px !important; margin-top: -33px; 
+}
+.logo-image-nav{
+width: 15%; cursor: pointer;
+}
+.aaaa{
+background-color: white!important; margin-top: 0%;
+}
+
+.fleche-fleche{
+color: inherit;font-size: -webkit-xxx-large;
+}
+.dd{
+font-size: 100%; font-style: italic;
+}
+.ee{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; color: black;
+}
+.espace-fin {
+	margin-top: 10%;
+}
+.liste-1{
+	font-family: Aharoni; font-weight: boldest; color: black;width: 200px !important; height: 30px;opacity: .7; 
+    border-radius: 5px 0 6px 0 / 40px 0;background-clip:padding-box; background-color: rgba(255,204,0,.7);
+    margin-left: 10% !important; margin-top: -25px;
+}
+.menu-item a:hover{ 
+	font-family: Aharoni; font-weight: boldest; color: black; width: 100px !important; height: 30px ;opacity: .7; 
+  border-radius: 5px 0 6px 0 / 40px 0;background-clip:padding-box; background-color: rgba(255,204,0,.7);
+  margin-left: 0% !important; margin-top: 0px;
+  }
+  
+  /*web*/
+.title-liste-1{
+    font-family: Aharoni; color: black; width: 100px !important; height: 20px; opacity: .7; border-radius: 5px 0 6px 0 / 40px 0; 
+    background-clip:padding-box; background-color: rgba(255,204,0,.7); margin-top: 25px; font-size: large;
+}
+.menu-item a:hover{ 
+    font-family: Aharoni; font-weight: boldest; color: black; width: 100px !important; height: 20px ;opacity: .7; font-size: large;
+    border-radius: 5px 0 6px 0 / 40px 0; background-clip:padding-box; background-color: rgba(255,204,0,.7);text-decoration-line: none;
+}
+.liste {
+    font-family: Aharoni; font-weight: boldest; font-size: small;
+}
+.fleche-fleche{
+    color: inherit;font-size: -webkit-xxx-large;
+}
+.dd{
+    font-size: 100%; font-style: italic; font-family: -webkit-pictograph;
+}
+.ee{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; color: black;
+}
+.adresse-rue {
+     font-size: x-small ; font-family: 'Aharoni';
+}
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.overlay {
+  height: 100%; width: 0; position: fixed; z-index: 1; top: 0; left: 0; background-color: rgb(255,255,255); 
+  background-color: rgba(255,255,255, ); overflow-x: hidden; transition: 0.5s;
+}
+
+.overlay-content {
+  position: relative; /*top: 25%;*/ width: 100%; margin-top: 0px;
+}
+  
+.overlay a {
+ text-decoration: none; font-size: large; color: #818181; transition: 0.3s;
+}
+
+.overlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+
+.overlay .closebtn {
+  /*position: absolute;*/ top: 20px; left: 45px; font-size: 60px;
+}
+.fab{
+    font-size: xx-large;
+}
+.reseaux-sociaux a:hover {
+    color: #0056b3;
+    text-decoration: none;
+}
+

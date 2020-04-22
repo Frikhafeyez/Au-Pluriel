@@ -1,0 +1,69 @@
+@media (max-width: 512px) and (min-width: 300px){
+    .ligne-1-btn-menu .fas {
+        margin: 5%; font-size: x-large;
+    }
+    .logo-image-nav {
+        width: 15%;position: absolute; cursor: pointer;
+    }
+    .reseaux-sociaux{
+        width: unset!important;
+    }
+    .reseaux .fab{
+        cursor: pointer; 
+    }
+    .reseaux{    
+        padding-left: 6%!important; padding-right: 6%!important; font-size: medium!important;   
+    }
+    .aaaa{
+    background-color: white!important;  margin-top: 10%!important;
+    }
+    .adresse-rue {
+        margin-left: 10%; font-size: 80% !important; font-family: Aharoni;
+    }
+    .fas {
+        cursor: pointer;
+    }
+}  
+
+/*              -------- for PC -------------       */
+.fas {
+	cursor: pointer;
+}
+.reseaux .fab{
+        cursor: pointer; 
+}
+.reseaux{
+    padding-left: 5%; padding-right: 5%;    font-size: medium ; cursor: pointer;
+}
+.reseaux-sociaux{
+    width: inherit;
+}
+.vide-nav{
+    width: 60px; height: 60px;
+}
+.liste {
+    font-family: Aharoni; font-weight: boldest; margin-left: 10%;
+}
+.logo-image-nav{
+    width: 15%; cursor: pointer;
+}
+.aaaa{
+    background-color: white!important; margin-top: 0%;
+}
+.adresse-rue {
+    margin-left: 10%; font-size: 80%; font-family: Aharoni;
+}
+.fleche-fleche{
+    color: inherit;font-size: -webkit-xxx-large;
+}
+.dd{
+    font-size: 100%; font-style: italic;
+}
+.ee{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; color: black;
+}
+.menu-item a:hover{ 
+	font-family: Aharoni; font-weight: boldest; color: black; width: 100px !important; height: 30px ;opacity: .7; 
+  border-radius: 5px 0 6px 0 / 40px 0;background-clip:padding-box; background-color: rgba(255,204,0,.7);
+  margin-left: 0% !important; margin-top: 0px;
+  }

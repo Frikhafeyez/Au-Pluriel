@@ -1,0 +1,351 @@
+@media screen and (max-width: 512px) and (min-width: 300px){
+		/*/     fin menu colussant     /*/
+.overlay a {
+	font-size: x-large;
+}
+.overlay .closebtn {
+	font-size: 40px; top: 15px; right: 35px;
+}
+.dd{
+	font-size: small; font-style: italic; font-family: -webkit-pictograph;
+}
+.ee{
+	font-size: small; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; color: black;
+}
+.vide-nav{
+	height: 2%;
+}
+.fleche-fleche {
+	font-size: x-large !important;
+}
+.footer {
+	margin-left: 0% !important; 
+}
+
+/*/     fin menu colussant     /*/
+
+	.container-home .footer-adresse-text{
+		margin-left: 5% !important;
+	}
+	
+	.adresse-rue {
+		font-size: 85% !important; font-family: Aharoni;
+	}
+	.container-home .logo-nos-clients .textup-client{
+		font-size: 260% !important ;
+	}
+	.ligne-1-btn-menu .fas {
+		margin: 5%; font-size: x-large;
+	}
+	.logo-image-nav {
+		width: 15%; cursor: pointer;
+	}
+	.reseaux-sociaux{
+		width: unset!important;
+	}
+	.reseaux .fab{
+		cursor: pointer; 
+	}
+	.reseaux{    
+		padding-left: 6%!important; padding-right: 6%!important; font-size: medium!important;   
+	}
+	.aaaa{
+	background-color: white!important;  margin-top: 10%!important;
+	}
+	.container-home .ligne-1-logo .image-logo1 {
+		width:20%; 
+	}
+	
+	.img .image-logo1.img-responsive {
+		width:20%; 
+	}
+	
+	.container-projet-G7 .ligne-0-projet-g7 .hash{
+		    font-size: 5rem; text-align: left; margin-bottom: 30px; margin-top: -100%;padding-left: 80px; width: 53px;height: 66px;
+    		font-family: none; color: rgb(167,167,167);margin-right: 5%;
+	}
+	.container-projet-G7 .ligne-1-projet-g7 .ligne-image-G7{
+			margin-left: 10%; width: 90%;		
+	}
+	.container-projet-G7 .ligne-1-projet-g7 .paragraphe-G7{
+		margin-left: 10%;
+	}
+	.container-projet-G7 .ligne-2-projet-g7{
+		margin-left: 5%; margin-right: 5%;
+	}
+	.container-projet-G7 .ligne-2-projet-g7 .block-bleu .block-bleu-text-1{
+		margin-top: 5%;
+	}
+	.container-projet-G7 .block-bleu-text-2{
+		margin-top: -15%;
+	}
+	.container-projet-G7 .ligne-2-projet-g7 .block-bleu .block-bleu-text-4{
+		margin-bottom: 15%; font-size: 115%;
+	}
+	.container-projet-G7 .paragraphe-3 {
+	    margin-top: 0%; margin-left: 5%; margin-bottom: 5%;
+	}
+	.container-projet-G7 .image-video-apple{
+		background-color: #25397b; color: white; margin-top: 10%; margin-bottom: 10%; margin-left: 15%;
+	}
+
+	.container-projet-G7 .ligne-4-projet-g7 .titre-paragraphe-4{
+		    margin-top: -280%;
+	}
+	.container-projet-G7 .ligne-4-projet-g7 {
+			margin-left: 4%;    margin-right: 20%;    margin-top: 0%;
+	}
+	.container-projet-G7 .ligne-4-projet-g7 .paragraphe-4{
+		margin-top: -280%;
+	}
+	.container-projet-G7 .ligne-4-projet-g7 .image-lettre{
+		    background-color: #25397b;    color: white;    margin-top: 0%;    margin-bottom: 10%;
+	}
+	.container-projet-G7 .ligne-5-projet-g7{
+		margin-top: 5%;
+	}
+.container-projet-G7 .ligne-5-projet-g7 .ligne-5-image-G1{
+		 width: 40%; margin-top: 10%; margin-left: 5%; margin-bottom: 20%;
+}
+.container-projet-G7 .ligne-5-projet-g7 .ligne-5-image-D1{
+		width: 40%; margin-top: 10%; margin-left: 0%; margin-bottom: 20%;
+}
+.container-projet-G7 .ligne-5-projet-g7 .ligne-5-image-G{
+	    display: none;  
+}
+	.container-projet-G7 .ligne-5-image-droite{
+		display: none;
+	}
+	
+	.container-projet-G7 .ligne-5-projet-g7 .ligne-5-paragraphe-fin .paragraphe-fin-text-2{
+	    font-size: 170%;
+	}
+	.fas {
+		cursor: pointer;
+	}
+}
+
+/* ecran PC*/
+.fas {
+	cursor: pointer;
+}
+.container-projet-G7 .ligne-0-projet-g7 .textup-projet-G7{
+	margin-top: 5%;margin-left: 36px;font-family: Aharoni; font-size: 300%;
+}
+.container-projet-G7 .ligne-0-projet-g7 .textborder-projet-G7{
+	 width:217px;height: 30px; opacity: .7;
+	 border-radius: 5px 0 6px 0 / 40px 0;background-clip: padding-box;
+	 background-color: rgba(0,29,123,.7); margin-top: -34px;margin-left: 20px;
+}
+.container-projet-G7 .ligne-0-projet-g7 .textdown-projet-G7{
+    margin-top:-32px; margin-left:36px; font-size: 300%; font-style: italic;
+    font-family:Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, empattement;
+}
+.container-projet-G7 .ligne-0-projet-g7 .hash-text{
+	width: 127px; height: 141px; float: right;
+}
+.container-projet-G7 .ligne-0-projet-g7 .hash{
+	 font-size: 5rem; text-align: left;margin-bottom: 52px; padding-left: 80px;width: 53px;
+	 height: 66px;font-family: none; color: rgb(167,167,167);
+}
+.container-projet-G7 .ligne-0-projet-g7 .li{
+	 font-family:'Candara'; margin-top:-20px; list-style-type: none; text-align: right; font-size: 1rem; width: 127px;height: 63px;
+}
+.container-projet-G7 .ligne-1-projet-g7 .paragraphe-G7-0{
+	text-align:right; margin-top: 20%;
+}
+.container-projet-G7 .ligne-1-projet-g7 .paragraphe-G7-1{
+	 font-size: 200%; font-weight: bold;
+}
+.container-projet-G7 .ligne-1-projet-g7 .paragraphe-G7-2{
+	 font-weight: bold;
+}
+.container-projet-G7 .ligne-1-projet-g7 .paragraphe-G7-3{
+	text-align: justify; text-justify: inter-word;	 
+}
+.container-projet-G7 .ligne-1-projet-g7 .paragraphe-G7-4{
+	font-weight: bold; margin-top: 15%;
+}
+.container-projet-G7 .ligne-1-projet-g7 .paragraphe-G7-4 .fas{
+	font-size: 25pt;
+}
+
+.container-projet-G7 .ligne-2-projet-g7{
+	background-color: #25397b; color: white; margin-top: 10%; margin-bottom:10%;
+}
+.container-projet-G7 .ligne-2-projet-g7 .block-bleu-text-1{
+	margin-top: 5%; font-size: 200%; font-weight: bold; font-family:'Candara';
+}
+.container-projet-G7 .ligne-2-projet-g7 .block-bleu-text-2{
+	 font-family:Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, empattement;
+                font-size: 210%; font-style: italic; margin-top: -5%; 
+}
+.container-projet-G7 .ligne-2-projet-g7 .block-bleu-text-3{
+ 	font-size: 105%; text-align: justify; text-justify: inter-word; margin-top:5%;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.container-projet-G7 .ligne-2-projet-g7 .block-bleu-text-4{
+	font-family:Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, empattement;
+    font-size: 180%; font-style: italic; margin-bottom: 5%;
+}
+
+
+.container-projet-G7 .ligne-3-projet-g7 .paragraphe-3{
+	margin-top: 15%;
+}
+.container-projet-G7 .ligne-3-projet-g7 .image-video-apple{
+	background-color: #25397b; color: white; margin-top: 10%; margin-bottom:10%;
+}
+.container-projet-G7 .ligne-3-projet-g7 .ligne-image-G7{
+	width: 85%;margin-top: -10%; margin-left: -10%;
+}
+.ligne-3-projet-g7 .paragraphe-3 .titre-paragraphe-3 {
+	margin-top: 5%;color: #000; font-size: 200%; font-weight: bold; font-family:'Candara';
+}
+.ligne-3-projet-g7 .paragraphe-3 .text-paragraphe-3{
+	text-align: justify; margin-right: 5%; text-justify: inter-word; margin-top:5%;font-size: 105%; 
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container-projet-G7 .ligne-4-projet-g7 .image-lettre{
+	background-color: #25397b; color: white; margin-top: 0%; margin-bottom:10%;
+}
+.container-projet-G7 .ligne-4-projet-g7 .ligne-4-image-G7{
+	width: 130%; margin-top: 20%; margin-left: 3%; margin-bottom: 20%;
+}
+.container-projet-G7 .ligne-4-projet-g7 .paragraphe-4{
+	margin-top: 15%;
+}
+.container-projet-G7 .ligne-4-projet-g7 .titre-paragraphe-4{
+	margin-top: 5%; color: #000; font-size: 200%; font-weight: bold; font-family:'Candara';
+}
+.container-projet-G7 .ligne-4-projet-g7 .text-paragraphe-4-1{
+	font-style: italic; text-align: justify; text-justify: inter-word; margin-top:5%;
+    color: rgb(167,167,167); font-size: 105%; font-family:'Times New Roman';
+}
+.container-projet-G7 .ligne-4-projet-g7 .sous-titre-paragraphe-4{
+	font-weight: bold; margin-top:5%;font-size: 105%; font-family: 'Aharoni';
+}
+.container-projet-G7 .ligne-4-projet-g7 .text-paragraphe-4-2{
+	margin-top:0%;font-size: 105%; font-family:'Berlin Sans FB';
+}
+.container-projet-G7 .ligne-5-projet-g7 .ligne-5-image-G{
+	width: 70%; margin-top: 0%; margin-left: 0%; margin-bottom: 20%;
+}
+.container-projet-G7 .ligne-5-projet-g7 .ligne-5-image-D{
+	width: 70%; margin-top: 0%; margin-left: 0%; margin-bottom: 20%;
+}
+.container-projet-G7 .ligne-5-projet-g7 .ligne-5-paragraphe-fin{
+	margin-top: 6%;
+}
+.container-projet-G7 .ligne-5-projet-g7 .ligne-5-paragraphe-fin .paragraphe-fin-text-1{
+	color: rgb(167,167,167); font-family:'Times New Roman'; font-style: italic;font-size: x-large;
+}
+.container-projet-G7 .ligne-5-projet-g7 .ligne-5-paragraphe-fin .paragraphe-fin-text-2{
+	 color: #000; font-size: 200%; font-weight: bold; font-family: Candara; margin-bottom: 15%;
+}
+.container-projet-G7 .ligne-5-projet-g7 .ligne-5-image-droite .ligne-5-image-D{
+	width: 70%; margin-top: 0%; margin-left: 0%; margin-bottom: 20%;
+}
+.container-projet-G7 .ligne-5-projet-g7 .visible{
+	display: none;
+}
+
+.reseaux .fab{
+	cursor: pointer; 
+}
+.reseaux{
+padding-left: 5%; padding-right: 5%;    font-size: medium ; cursor: pointer;
+}
+.reseaux-sociaux{
+width: inherit;    
+}
+.vide-nav{
+width: 60px; height: 60px;
+}
+.liste {
+font-family: Aharoni; font-weight: boldest;
+}
+.logo-image-nav{
+width: 15%; cursor: pointer;
+}
+.aaaa{
+background-color: white!important; margin-top: 0%;
+}
+
+.fleche-fleche{
+color: inherit;font-size: -webkit-xxx-large;
+}
+.dd{
+font-size: 100%; font-style: italic;
+}
+.ee{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; color: black;
+}
+.liste-1{
+	font-family: Aharoni; font-weight: boldest; color: black;width: 200px !important; height: 30px;opacity: .7; 
+    border-radius: 5px 0 6px 0 / 40px 0;background-clip:padding-box; background-color: rgba(255,204,0,.7);
+    margin-left: 0% !important; margin-top: -25px;
+}
+.menu-item a:hover{ 
+	font-family: Aharoni; font-weight: boldest; color: black; width: 100px !important; height: 30px ;opacity: .7; 
+  border-radius: 5px 0 6px 0 / 40px 0;background-clip:padding-box; background-color: rgba(255,204,0,.7);
+  margin-left: 0% !important; margin-top: 0px;
+  }
+
+  
+  /*web*/
+.title-liste-1{
+    font-family: Aharoni; color: black; width: 100px !important; height: 20px; opacity: .7; border-radius: 5px 0 6px 0 / 40px 0; 
+    background-clip:padding-box; background-color: rgba(255,204,0,.7); font-size: large;
+}
+.menu-item a:hover{ 
+    font-family: Aharoni; font-weight: boldest; color: black; width: 100px !important; height: 20px ;opacity: .7; font-size: large;
+    border-radius: 5px 0 6px 0 / 40px 0; background-clip:padding-box; background-color: rgba(255,204,0,.7);text-decoration-line: none;
+}
+.liste {
+    font-family: Aharoni; font-weight: boldest; font-size: small;
+}
+.fleche-fleche{
+    color: inherit;font-size: -webkit-xxx-large;
+}
+.dd{
+    font-size: 100%; font-style: italic; font-family: -webkit-pictograph;
+}
+.ee{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; color: black;
+}
+.adresse-rue {
+     font-size: x-small ; font-family: 'Aharoni';
+}
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.overlay {
+  height: 100%; width: 0; position: fixed; z-index: 1; top: 0; left: 0; background-color: rgb(255,255,255); 
+  background-color: rgba(255,255,255, ); overflow-x: hidden; transition: 0.5s;
+}
+
+.overlay-content {
+  position: relative; /*top: 25%;*/ width: 100%; margin-top: 0px;
+}
+  
+.overlay a {
+ text-decoration: none; font-size: large; color: #818181; transition: 0.3s;
+}
+
+.overlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+
+.overlay .closebtn {
+   top: 20px; left: 45px; font-size: 60px;
+}
+.fab{
+    font-size: xx-large;
+}
+.reseaux-sociaux a:hover {
+    color: #0056b3;
+    text-decoration: none;
+}
